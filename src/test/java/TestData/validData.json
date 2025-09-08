@@ -1,0 +1,13 @@
+[
+	{
+		"age" : 35,
+		"noOfConditions" : 3,
+		"email": "dummy@email.com"
+	},
+	
+	{
+		"age" : 59,
+		"noOfConditions" : 2,
+		"email": "dummy2@email.com"
+	}
+]
